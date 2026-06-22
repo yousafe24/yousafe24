@@ -1,4 +1,4 @@
-# Hi, I'm Youssef 👋
+# Hi, I'm Yossef 👋
 
 **MSc Applied Image & Signal Processing · FH Salzburg**
 
