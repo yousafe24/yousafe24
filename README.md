@@ -2,22 +2,26 @@
 
 **MSc Applied Image & Signal Processing · FH Salzburg**
 
-Electrical Power Engineer turned signal/ML enthusiast. I build things at the intersection of embedded systems, digital signal processing, and machine learning.
+Electrical Power Engineer turned ML engineer. I work on computer vision, signal processing, and machine learning — combining a strong mathematical foundation with hands-on Python and MATLAB experience.
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=flat-square) ![DSP](https://img.shields.io/badge/DSP%20%C2%B7%20Audio-purple?style=flat-square) ![ML](https://img.shields.io/badge/ML%20%C2%B7%20Computer%20Vision-teal?style=flat-square&color=1D9E75) ![C++](https://img.shields.io/badge/C%2FC%2B%2B%20%C2%B7%20AVR%20%C2%B7%20RTOS-coral?style=flat-square&color=D85A30)
-
----
-
-### What I'm working on
-
-| Project | Description |
-|---|---|
-| 🔐 **Finger Vein PAD** | Combined deep feature embeddings (ResNet, ShuffleNet, SqueezeNet) for biometric presentation attack detection |
-| 🔧 **Predictive Maintenance** | End-to-end CRISP-DM pipeline with XGBoost / Random Forest on AI4I 2020 |
-| 🎛️ **Audio DSP Effects** | Phase vocoder, LPC formant shifting, Moorer reverberator — Python from scratch |
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=flat-square)
+![ML](https://img.shields.io/badge/Machine%20Learning-purple?style=flat-square&color=7F77DD)
+![CV](https://img.shields.io/badge/Computer%20Vision-teal?style=flat-square&color=1D9E75)
+![DSP](https://img.shields.io/badge/Signal%20Processing-coral?style=flat-square&color=D85A30)
 
 ---
 
-Previously: FOC motor drive in MATLAB/Simulink (graduation project, A+) · L'Oréal Egypt · Giza Power Industries
+### Projects
 
-📍 Salzburg, Austria · Open to internships & working-student roles in signal processing, embedded ML, or radar systems.
+🔐 **[Finger Vein PAD](https://github.com/yousafe24/Combined-Featuer-Embeddings)** — Biometric presentation attack detection using combined deep feature embeddings (ResNet, ShuffleNet, SqueezeNet)
+
+🔧 **Predictive Maintenance** — End-to-end CRISP-DM pipeline with XGBoost / Random Forest on the AI4I 2020 dataset
+
+🧠 **LLM Activation Function Study** — Benchmarking ChatGPT, Claude, DeepSeek, and Gemini recommendations across MNIST/CIFAR tasks
+
+---
+
+Previously: FOC motor drive in MATLAB/Simulink (graduation project, A+) · McKinsey Forward Program
+
+📍 Salzburg, Austria · Open to internships & working-student roles in ML, computer vision, or signal processing.
