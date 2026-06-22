@@ -16,12 +16,9 @@ Electrical Power Engineer turned ML engineer. I work on computer vision, signal 
 
 🔐 **[Finger Vein PAD](https://github.com/yousafe24/Combined-Featuer-Embeddings)** — Biometric presentation attack detection using combined deep feature embeddings (ResNet, ShuffleNet, SqueezeNet)
 
-🔧 **Predictive Maintenance** — End-to-end CRISP-DM pipeline with XGBoost / Random Forest on the AI4I 2020 dataset
-
-🧠 **LLM Activation Function Study** — Benchmarking ChatGPT, Claude, DeepSeek, and Gemini recommendations across MNIST/CIFAR tasks
-
+🔧**Fault Detection** — Unsupervised anomaly detection using autoencoders for industrial machinery
 ---
 
-Previously: FOC motor drive in MATLAB/Simulink (graduation project, A+) · McKinsey Forward Program
+Previously: FOC motor drive in MATLAB/Simulink (graduation project, A+) 
 
 📍 Salzburg, Austria · Open to internships & working-student roles in ML, computer vision, or signal processing.
