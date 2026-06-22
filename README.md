@@ -16,7 +16,8 @@ Electrical Power Engineer turned ML engineer. I work on computer vision, signal 
 
 🔐 **[Finger Vein PAD](https://github.com/yousafe24/Combined-Featuer-Embeddings)** — Biometric presentation attack detection using combined deep feature embeddings (ResNet, ShuffleNet, SqueezeNet)
 
-🔧**Fault Detection** — Unsupervised anomaly detection using autoencoders for industrial machinery
+🔧 **Fault Detection** — Unsupervised anomaly detection using autoencoders for industrial machinery
+
 ---
 
 Previously: FOC motor drive in MATLAB/Simulink (graduation project, A+) 
