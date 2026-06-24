@@ -2,7 +2,7 @@
 
 **MSc Applied Image & Signal Processing · FH Salzburg**
 
-Electrical Power Engineer turned ML engineer. I work on computer vision, signal processing, and machine learning — combining a strong mathematical foundation with hands-on Python and MATLAB experience.
+Electrical Power Engineer turned ML engineer. I work on computer vision, signal processing, and machine learning — combining a strong mathematical foundation with hands-on Python.
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=flat-square)
